@@ -12,6 +12,6 @@
 		"php": ">=5.3"
     },
     "autoload":{
-    	"Nagi88\\controllerResolverInjectConstructor\\": "src/"
+    	"Nagi88\\ControllerResolverInjectConstructor\\": "src/"
     }
 }
