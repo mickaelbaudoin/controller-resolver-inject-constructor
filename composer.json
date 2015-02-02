@@ -1,6 +1,7 @@
 {
     "name": "nagi88/controller-resolver-inject-constructor",
     "description": "Provider and Decorator controller resolver of symfony for Silex",
+    "license": "MIT",
     "authors": [
         {
             "name": "mickael baudoin",
