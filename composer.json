@@ -12,6 +12,8 @@
 		"php": ">=5.3"
     },
     "autoload":{
-    	"Nagi88\\ControllerResolverInjectConstructor\\": "src/"
+    	"psr-4":{
+    		"Nagi88\\ControllerResolverInjectConstructor\\": "src/"
+    	}
     }
 }
