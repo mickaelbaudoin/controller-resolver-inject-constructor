@@ -1,0 +1,15 @@
+{
+    "name": "nagi88/controller-resolver-inject-constructor",
+    "description": "Provider and Decorator controller resolver of symfony for Silex",
+    "authors": [
+        {
+            "name": "mickael baudoin",
+            "email": "mickael.baudoin@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"php": ">=5.3",
+        "pimple/pimple": ">=2",
+    }
+}
