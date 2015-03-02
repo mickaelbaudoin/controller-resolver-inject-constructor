@@ -1,6 +1,6 @@
 <?php
 
-namespace Nagi88\Provider;
+namespace Nagi88\ControllerResolverInjectConstructor\Provider;
 
 use Silex\Application;
 use Silex\ServiceProviderInterface;
