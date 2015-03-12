@@ -4,7 +4,7 @@ namespace Nagi88\ControllerResolverInjectConstructor\Provider;
 
 use Silex\Application;
 use Silex\ServiceProviderInterface;
-use LibApp\Controllers\DecoratorControllerResolverSymfony;
+use Nagi88\ControllerResolverInjectConstructor\Controller\DecoratorControllerResolverSymfony;
 use Symfony\Component\HttpKernel\Controller\ControllerResolver;
 
 
